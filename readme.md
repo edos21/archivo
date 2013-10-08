@@ -1,2 +1,7 @@
-Sistema de Archivos
-Un eficiente sistema creado para el EjÈrcito Bolivariano de Venezuela. Su principal funciÛn es el registro de los APOA (Anteproyecto de Plan Operativo Anual) y los POA (Plan Operativo Anual) de las 377 unidades militares distribuidas en todo el territorio nacional. El programa tambiÈn posee otras funciones importantes ya que muestra cu·ntas de las unidades han entregado el proyecto, cu·ntas faltan por hacerlo, y brinda la opciÛn de acceder a cualquiera de ellas de manera sencilla y efectiva mediante sÛlo un clic.
+# Sistema de Archivos
+![alt text](http://e2sistems.com/img/page/8.png "Logo Title Text 1")<br>
+Un eficiente sistema creado para el Ej√©rcito Bolivariano de Venezuela. Su principal funci√≥n es el registro de los APOA
+(Anteproyecto de Plan Operativo Anual) y los POA (Plan Operativo Anual) de las 377 unidades militares distribuidas
+en todo el territorio nacional. El programa tambi√©n posee otras funciones importantes ya que muestra cu√©ntas de las
+unidades han entregado el proyecto, cu√©ntas faltan por hacerlo, y brinda la opci√≥n de acceder a cualquiera de ellas
+de manera sencilla y efectiva mediante s√≥lo un clic.
